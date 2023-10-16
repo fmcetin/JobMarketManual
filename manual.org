@@ -1,0 +1,108 @@
+#+LATEX_CLASS: article
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+OPTIONS: toc:nil ^:{} 
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+latex_header: \hypersetup{colorlinks=true, linkcolor=black, citecolor=black}
+#+LATEX_HEADER: \usepackage[top=1in, bottom=1.in, left=1in, right=1in]{geometry}
+#+LATEX_HEADER: \usepackage[utf8]{inputenc}
+#+LATEX_HEADER: \usepackage[T1]{fontenc}
+#+LATEX_HEADER: \usepackage{fixltx2e}
+#+LATEX_HEADER: \usepackage[longnamesfirst]{natbib}
+#+LATEX_HEADER: \usepackage{url}
+#+LATEX_HEADER: \usepackage{graphicx, adjustbox}
+#+LATEX_HEADER: \usepackage{textcomp}
+#+LATEX_HEADER: \usepackage{amsmath, amsfonts}
+#+LATEX_HEADER: \usepackage{pdfpages}
+#+LATEX_HEADER: \usepackage[version=3]{mhchem}
+#+LATEX_HEADER: \usepackage{setspace}
+#+latex_header: \usepackage{indentfirst}
+#+latex_header: \usepackage{pdflscape}
+#+LATEX_HEADER: \usepackage{changepage}
+#+latex_header: \usepackage{marginnote,enumitem,subfigure,rotating,fancyvrb, caption}
+#+TITLE: Practical Guide for the Accounting Job Market: That is How I Experinced\footnotetext{I am grateful to my co-chairs, Andy Leone and Sugata Roychowdhury, committee members, Ronald Dye, Beverly Walther and Dimitris Papanikolaou, who helped to navigate this stressful process. I deeply appreciate the suggestions from Chris Stewart, Tom Hagenberg, Georg Rickmann, Jung Min Kim, Doyeon Kim, and Valerie Zhang for sharing their experiences, making mooc interviews and advising me. I also thank accounting department team, Goldie McCarty, Kevin Lim and Elizabeth Forest for their logistic support.}
+
+#+AUTHOR: Furkan Mustafa Cetin @@latex:\\@@ furkan.cetin@kellogg.northwestern.edu @@latex:\\\\@@ Kellogg School of Management  @@latex:\\@@ Northwestern University
+#+email: furkan.cetin@kellogg.northwestern.edu
+#+date: July 2023
+
+\maketitle
+#+BEGIN_abstract
+@@latex:\noindent@@ This paper is about my personal experiences during the 2022-2023 Accounting Rookie Job Market. I am grateful to people who helped to prepare to the job market, and I want to share a practical guideline about this nerve racking process by synthesizing the advice I got and experiences. Thus, take it with a grain of salt. 
+ #+END_abstract
+
+
+\thispagestyle{empty}
+\clearpage
+\doublespace
+\setcounter{page}{1}
+* Introduction
+Hello dear Ph.D. student! I am Furkan Cetin, and I mostly wrote this ``manual'' as I maneuver through the job market as a fifth-year Ph.D. student at Kellogg.[fn:1]  I call it a ``manual'' with the hope that you can use it to prepare for the job market and appreciate the entire process. My goal is just to reflect my personal experiences, the tips that I was grateful to new and some tips that I wish I would have known. But I don't aim to (and will not be able to) cover the entire PhD process. [[citet:&rouenAccountingRookieJob2017]] provides more comprehensive view for the PhD program and preparation for the job market, but in this paper I aim to provide more pill like advices with bullet points about the going through the job market post Covid-19. I know it is extremely stressful, but you will likely not find another time when this many people across different institutions are interested in your research. Embrace this unique experience!
+
+Basic timeline for the job market is:
+  - Applications
+  - Interviews
+  - Flyouts
+  - Offers
+* Applications
+  - Set a deadline for yourself to obtain the final approval from your advisors by mid-October. This would be the ideal, more stress free option and I envy the people who can achieve that. But if you are like me, you might end up with last minute edits and changes. It might be OK (but stressful) if you agreed on the paper but need to polish a bit more. But don't forget that you need a final approval from your advisors before you submit your applications (and they write recommendation letters for you). Thus, you shouldn't hand it to your advisor by the end of the third of October since recently some accounting departments have established a deadline by the end of October or early November. But again, this really depends on your and your advisor(s)' schedule. If they are teaching, for instance, they might be very busy and you may have to miss some applications. It wouldn't be the end of the world (or the job market) as still most of the schools would have mid-November deadline, but would just put some extra pressure on you.
+  - Give the letter writers to at least two weeks time to write your letter. In general, it would be OK for them to upload after the deadline, but again, it would be best to remind them about the letters by mid October.
+  - Enlist the assistance of administrative staff for handling references. Ideally, you would provide the email address(es) of one staff member, who would then upload the reference letters on behalf of the faculty. I was fortunate to have an exceptional department manager who proactively ensured that faculty submitted their reference letters to her, keeping me informed once the letters were uploaded. While you will often receive a notification from the application portal, it is crucial to personally keep track of these submissions. Be aware that I was very fortunate with a wonderful administrative team, but I have heard from friends that not all staff may be as diligent in following up on references!
+  - Deciding how many and which schools to apply to is a common concern. It is best to discuss the tier of the schools to apply to with your advisor(s). In my case, we went through the schools I would apply to. It is a very personal decision, but I chose to apply only to schools where I would be happy to work and *live* in the surrounding area. The temptation to apply to as many schools as possible exists, given the preference for securing a job over facing unemployment. However, I found it distracting to apply to too many schools. I preferred to concentrate on schools where my family and I would be genuinely happy. This approach proved helpful while preparing for interviews and flyouts, as I could sincerely express my eagerness to work at those institutions. Remember, this is a personal choice, and while I share my experience, I don't recommend here any specific course of action.
+* Interviews
+  - Seek advice from junior faculty members. They have recent firsthand experience!
+  - Solicit mock interviews from faculty members. The more practice, the better!
+  - Virtual interviews have become the norm since the onset of COVID-19. I think you must still look sharp as casual or wrinkled clothes would probably be deemed as ignorance. You should look into the camera to give impression of an eye-contact.Be mindful about lightning and voice quality. They must be able to see and hear you clearly. Do at least a few of your mock interviews online to get a feedback on that as well. You might consider investing in a good quality web camera, lights, and a microphone.  
+  - A typical interview commences with "tell us about yourself and your research." With virtual interviews, some schools might permit slide use. Personally, I don’t recommend this. Summarize your broad research interest and link it to your job market paper. Convey the overarching research questions, your identification strategy (briefly), and your primary findings. Aim to keep this within three minutes. Overextending this segment limits your interaction time with the faculty.
+  - Maintain enthusiasm about your research throughout all interviews. Regardless of the number of times you discuss your research on that day (might be the tenth time!), sustain high energy and passion! Even in your tenth interview of the day, your excitement must not wane. Faculty will think, "If they are not passionate, why should we be?"
+  - Avoid excessive time summarizing your work. The interview should resemble a tennis match, characterized by extensive back-and-forth with the faculty.
+    - Monitor your time in mock interviews to avoid overextending.
+    - Ensure the conversation remains interactive, allowing faculty to pose questions.
+  - A common inquiry is whether you have any questions. Although I don’t have a comprehensive list of questions, refrain from asking about teaching load or research budget in the first-stage interview (unless extremely necessary) as they would be more appreciate questions for the flyouts. Try asking specific questions about the school that would signal your genuine interest. I think it is also fair to ask about their timeline, but I would not (and did not) ask about the number interviewees or fly outs. In general, my motto is focus on what is on your control.
+  - Express gratitude by sending personalized thank-you emails to the interviewing faculty. Recognize their time commitment to the hiring process, and be aware that some faculty members consider this a signal of your interest in their institution. Despite my initial reluctance, this gesture is valuable and appreciated in the academic community.
+  - Send thank you emails to the faculty joined your interview. You might think it is redundant especially if you thank at the end of the interviews, or you might be very considerate and don't want to take the faculty's time. Don't send a generic email but personalize it accordingly with your interview. First, don't forget that they also sacrifice significant amount of their time for the hiring process and allocated a chunk of their time for you. Second, for some faculty members it does matter! They might take it as a signal that you are interested in the institution. Unfortunately, I wasn't aware that most of the students in the accounting market send these thank you emails, and I thought it would be redundant and would waste of the faculty's time. But again, it can be important! 
+    
+* Interviews
+- Ask faculty members to do mooc interviews with you. More is better!
+- Ask junior faculty members for advices. They just experienced it!
+- Virtual interviews has become the mainstream starting with Covid.
+- You need to be enthusiastic about your research for all of the interviews. No matter how many times you discuss your research, you must keep your enthusiasm high! Even if it's your tenth interview in the day, if you seem not passionate enough, the faculty would think "if you are not passionate, why should we?"
+- A typical interview would start with "tell us about yourself and your research." With virtual interviews, some schools might allow you to use slides in this period. But personally don't recommend it. Summarize your broad research interest and connect it to your job market paper. Tell about the big picture research questions, your identification strategy (very briefly) and your key findings. Try to keep it in 3 minutes. There is no hard limit of course, but if you loose too much time, you will loose your precious time to interact with the faculty. See below.
+- Don't loose too much time on summarizing your work etc. Ideally it should be like a pingpong or tennis match. There should be lots of conversation with the faculty.
+  - Probably you will get excited. Time yourself with mooc interviews.
+  - Don't forget that it has to be conversational. Let the faculty to ask you questions.
+- One typical question is if you have questions. This is tricky and I still don't have a definitive list of questions. First of all, this is the first stage interview, so don't ask about teaching load, research budget etc. (unless you are really desperate; and I confess that I asked about teaching to one institution!) 
+  
+* Flyouts
+- Some schools email only the candidates they gave a flyout and some reach out to every interviewees about the flyout decision. Some of them call you, so answer the phone calls in this period!
+- Book your flights with fully refundable tickets. Hopefully, you will have a dense schedule and you might need to change flights as new invites are coming in. Also schools might ask you if you can change the flyout date. If you don't have a refundable ticket, believe me it is a really painful process to change your flight. Of course, be mindful but don't worry about too much the prices as the schools will reimburse you as long as the ticket is economy class (maybe some schools can cover your business class flight as well if the flight is more than certain hours!).
+- If you have too many flyouts, you might want to check your credit card perks! Some of them give you free access to the airport lounges or priority boarding, which can be pretty handy.
+- Be tidy about your tickets, receipts, etc. File the reimbursement as soon as you are done with the flyout. Be polite to the organizers, thank them for organizing your visit. They are also very busy during this recruitment period. If you delay the reimbursements till the end of the job market, you may suffer significant cash flow problems.
+- In a typical flyout, you will meet with the faculty of the accounting department, their PhD students, dean or the deputy dean. Sometimes you might meet with one or two faculty from a close department, which is Finance most of the time. The host department would send your schedule for the flyout date. You need to know the people you will meet, their research and personal hobbies etc. Thus, do your homework and study each people there. You need to be able to talk with them for 30 minutes! I think it would be important to know each faculty in the Accounting department, even if they are not on your schedule. There could be last minute changes or you can encounter them on the way and could briefly talk.
+- It is my personal opinion and it can be completely wrong but if the person don't talk about your JMP during these office visits, don't bring it. I think that you have the workshop to discuss your paper. Use wisely your 30 minutes of interaction. People should think you would be a nice collegaue, they can hang out with you.
+  - They might ask you about your other papers and again you need to be genuinely enthusiastic about them.
+- You will have back to back meetings with the faculty and deans. I mean, literally back to back. You will visit one person's room, talk with that person, then they will walk you to the next person's office.
+  - Be careful about your liquid intake! You definitely, shouldn't be dehydrated, so don't forget to drink water, but also you wouldn't want to visit rest room frequently!
+  - Especially the junior faculty would be very considerate as they have experienced this process recently. They generally ask if you would like to visit the rest room. Don't be shy if you need to. Even if you don't need to, you might want to check your attire!
+- And of course, you will present your job market paper (unless another paper is asked to be presented by the host department).
+
+\newpage
+\singlespace
+
+* Introduction
+Hello dear PhD student! I am Furkan Cetin and writing this "manual" as I am maneuvering through the job market as a fifth year PhD student at Kellogg. It is a "manual" because I hope you can read it to prepare for the job market and 
+
+Appreciate the whole process. I know it is extremely stressful, but probably you will not find another time that this much of people across different institutions are interested in your research. This is a great experience!
+
+Basic timeline for the job market
+ - Applications
+ - Interviews
+ - Flyouts
+ - Offers
+
+* Applications
+- Set a deadline for yourself to get approval from your advisors by mid October. Lately, some accounting departments set a deadline by the end of October.
+- Ask administrative stuff to help you with the references. Ideally, you would give one personnel's email(s) and that person would upload the reference letters on behalf of the faculty. I was lucky enough that I had a wonderful department manager and she kept pushing the faculty to submit the reference letters to her and she acknowledged me when she uploaded the reference letters. Most of the time you will get a notification from the application portal as well. But keep track of these things by yourself too. I heard some personnel might not be that eager to push for the references! 
+
+* Footnotes
+
+[fn:1] My placement is at the London School of Economics as an assistant professor and I still edit this ``manual''.  
