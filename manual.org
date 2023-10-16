@@ -7,7 +7,8 @@
 #+LATEX_HEADER: \usepackage[utf8]{inputenc}
 #+LATEX_HEADER: \usepackage[T1]{fontenc}
 #+LATEX_HEADER: \usepackage{fixltx2e}
-#+LATEX_HEADER: \usepackage[longnamesfirst]{natbib}
+#+LATEX_HEADER: \usepackage[backend=biber,style=authoryear,natbib=true]{biblatex}
+#+LATEX_HEADER: \addbibresource{../references.bib}
 #+LATEX_HEADER: \usepackage{url}
 #+LATEX_HEADER: \usepackage{graphicx, adjustbox}
 #+LATEX_HEADER: \usepackage{textcomp}
@@ -23,11 +24,11 @@
 
 #+AUTHOR: Furkan Mustafa Cetin @@latex:\\@@ f.m.cetin@lse.ac.uk @@latex:\\\\@@ London School of Economics
 #+email: f.m.cetin@lse.ac.uk
-#+date: July 2023
+#+date: October 2023
 
 \maketitle
 #+BEGIN_abstract
-@@latex:\noindent@@ This paper is about my personal experiences during the 2022-2023 Accounting Rookie Job Market. I am grateful to people who helped to prepare to the job market, and I want to share a practical guideline about this nerve racking process by synthesizing the advice I got and experiences. Thus, take it with a grain of salt. 
+@@latex:\noindent@@ In this paper, I chronicle my journey through the 2022-2023 Academic Accounting Rookie Job Market, a unique experience shaped by both traditional challenges and the evolving landscape of post-COVID academia. Focusing predominantly on the US market, I also navigated interactions with European institutions active within it, leading to my appointment at the London School of Economics that I feel deeply honored and grateful for. This guide serves as a beacon for future job market candidates, shedding light on job applications, interviews, flyouts, offers and the emotional roller coaster of the hiring process. I am grateful to mentors who illuminated my path, I aim to reciprocate by distilling the wealth of advice and firsthand experiences I amassed. Nonetheless, as a reflection of personal experiences, readers are advised to absorb this content judiciously. 
  #+END_abstract
 
 
@@ -114,5 +115,6 @@ Here is a basic timeline for the job market:
 
 \newpage
 \singlespace
+\printbibliography
 * Footnotes
 [fn:2] Some systems do not accept the same email address for all the reference providers and you may need to ask for additional email addresses. 
