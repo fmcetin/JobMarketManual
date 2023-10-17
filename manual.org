@@ -43,10 +43,10 @@ My intent is to share my personal experiences, provide the tips I found invaluab
 I fully recognize that this phase can be incredibly stressful, but you are unlikely to find this level of interest in your research from this many people across various institutions again anytime soon. Embrace this unparalleled opportunity!
 
 Here is a basic timeline for the job market:
-  - Applications
-  - Interviews
-  - Flyouts
-  - Offers
+  1. Applications
+  2. Interviews
+  3. Flyouts
+  4. Offers
 
 * Applications
 - Create a professional website. As people will likely search for you online, it's beneficial to have a website that appears prominently in search results. Many academic institutions offer website templates, but there are also external options you can explore, such as [[https://github.com/wowchemy/starter-hugo-academic][Hugo Academic]]. Alternatively, you can custom-build your own site.
