@@ -6,9 +6,8 @@
 #+LATEX_HEADER: \usepackage[top=1in, bottom=1.in, left=1in, right=1in]{geometry}
 #+LATEX_HEADER: \usepackage[utf8]{inputenc}
 #+LATEX_HEADER: \usepackage[T1]{fontenc}
-#+LATEX_HEADER: \usepackage{fixltx2e}
 #+LATEX_HEADER: \usepackage[backend=biber,style=authoryear,natbib=true]{biblatex}
-#+LATEX_HEADER: \addbibresource{../references.bib}
+#+LATEX_HEADER: \addbibresource{../../references.bib}
 #+LATEX_HEADER: \usepackage{url}
 #+LATEX_HEADER: \usepackage{graphicx, adjustbox}
 #+LATEX_HEADER: \usepackage{textcomp}
@@ -28,7 +27,7 @@
 
 \maketitle
 #+BEGIN_abstract
-@@latex:\noindent@@ In this paper, I chronicle my journey through the 2022-2023 Academic Accounting Rookie Job Market, a unique experience shaped by both traditional challenges and the evolving landscape of post-COVID academia. Focusing predominantly on the US market, I also navigated interactions with European institutions active within it, leading to my appointment at the London School of Economics that I feel deeply honored and grateful for. This guide serves as a beacon for future job market candidates, shedding light on job applications, interviews, flyouts, offers and the emotional roller coaster of the hiring process. I am grateful to mentors who illuminated my path, I aim to reciprocate by distilling the wealth of advice and firsthand experiences I amassed. Nonetheless, as a reflection of personal experiences, readers are advised to absorb this content judiciously. 
+@@latex:\noindent@@ In this paper, I reflect on my journey through the 2022-2023 Academic Accounting Rookie Job Market, an experience shaped by both traditional challenges and the evolving landscape of post-COVID academia. Focusing predominantly on the US market, I also navigated interactions with European institutions active within it, leading to my appointment at the London School of Economics that I feel deeply honored and grateful for. This guide serves as a beacon for future job market candidates, shedding light on job applications, interviews, flyouts, offers and the emotional roller coaster of the hiring process. I am grateful to mentors who illuminated my path, I aim to reciprocate by distilling the wealth of advice and firsthand experiences I amassed. Nonetheless, as a reflection of personal experiences, readers are advised to absorb this content judiciously. 
  #+END_abstract
 
 
@@ -50,6 +49,7 @@ Here is a basic timeline for the job market:
   - Offers
 
 * Applications
+- Create a professional website. As people will likely search for you online, it's beneficial to have a website that appears prominently in search results. Many academic institutions offer website templates, but there are also external options you can explore, such as [[https://github.com/wowchemy/starter-hugo-academic][Hugo Academic]]. Alternatively, you can custom-build your own site.
 - Set a deadline for yourself to obtain final approval from your advisors by mid-October. Achieving this is ideal and less stressful option; I admire those who can accomplish it! However, if you find yourself in a situation similar to mine, you might face last-minute edits and changes. It might be acceptable (albeit stressful) if the paper's main content is agreed upon, but requires further refinement. Remember, you must have your advisors' final approval before submitting your applications and before they write recommendation letters on your behalf. Thus, you should aim to have your paper ready for your advisor no later than the third week of October, especially since some accounting departments have started setting their deadlines around the end of October or early November. But ultimately, the timing really depends on both your and your advisor's schedule. If they are teaching, they might be swamped with work and you might miss some application deadlines. Missing a few deadlines is not the end of the world (or the job market), as many schools set their deadlines in mid-November. However, it does add extra pressure.
 - Allow your letter writers at least two weeks to draft your recommendation. Typically, it is acceptable for them to upload after the stated deadline, but it remains prudent to remind them by mid-October.
 - Most open positions are listed on SSRN, but not all. Some schools post their announcements on their own websites. Therefore, if there are specific departments you are particularly interested in, it is wise to check their websites directly. You are also likely aware of ``The Spreadsheet.'' However, be cautious: some individuals may delete listings. To address this issue, a group of colleagues and I established an alternative spreadsheet. Still, creating and maintaining your own spreadsheet can help you systematically track your applications throughout the process.

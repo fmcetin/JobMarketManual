@@ -1,0 +1,66 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{rouenAccountingRookieJob2017}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=723cf8ac366f25fb714cf4a724897a14}{%
+           family={Rouen},
+           familyi={R\bibinitperiod},
+           given={Ethan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Rochester, NY}%
+      }
+      \strng{namehash}{723cf8ac366f25fb714cf4a724897a14}
+      \strng{fullhash}{723cf8ac366f25fb714cf4a724897a14}
+      \strng{bibnamehash}{723cf8ac366f25fb714cf4a724897a14}
+      \strng{authorbibnamehash}{723cf8ac366f25fb714cf4a724897a14}
+      \strng{authornamehash}{723cf8ac366f25fb714cf4a724897a14}
+      \strng{authorfullhash}{723cf8ac366f25fb714cf4a724897a14}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper offers guidance and shares collective wisdom for accounting Ph.D. students who will be entering the academic job market. It is divided into two sections. The first offers subjective advice on the dissertation process —{} from choosing a topic to surviving the inevitable self-doubt —{} from my personal experience and the experiences of other former job candidates. The second section mostly focuses on factual components of the job market, providing details that will be useful to candidates before they begin the search. It concludes with subjective advice on how to make the job hunt more enjoyable. Both sections are organized chronologically and attempt to be comprehensive, beginning with choosing a dissertation topic and adviser, and concluding with the decision to accept an offer.}
+      \field{langid}{english}
+      \field{month}{7}
+      \field{number}{3003567}
+      \field{shorttitle}{The {{Accounting Rookie Job Market}}}
+      \field{title}{The {{Accounting Rookie Job Market}}: {{A Practitioner}}'s {{Guide}}}
+      \field{type}{{{SSRN Scholarly Paper}}}
+      \field{urlday}{11}
+      \field{urlmonth}{5}
+      \field{urlyear}{2023}
+      \field{year}{2017}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb /Users/cetinf/Zotero/storage/IRT98EFJ/Rouen_2017_The Accounting Rookie Job Market.pdf
+      \endverb
+      \keyw{Ethan Rouen,SSRN,The Accounting Rookie Job Market: A Practitioner's Guide}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
